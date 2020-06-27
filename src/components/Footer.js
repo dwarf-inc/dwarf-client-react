@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-//Footer
+// Now its okay
 const Footer = () => {
   return (
     <div style={{ backgroundColor: "#f5f5f5" }}>
